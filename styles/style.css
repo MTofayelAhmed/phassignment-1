@@ -4,7 +4,7 @@
 
 
 .header {
-  background-image: url(/images/banner/banner1.png);
+  background-image: url(../images/banner/banner1.png);
   min-height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -131,19 +131,17 @@
 
 /* attitude part css */
 .attitude {
-  background-image: url(/images/watch.png);
+  background-image: url(../images/watch.png);
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 70px;
   min-height: 300px;
   margin-top: 60px;
 
-
 }
 
 .quote {
   margin-left: 500px;
-
 
 }
 
@@ -172,7 +170,7 @@
   margin-top: 70px;
   background-color: black;
   height: 400px;
-  
+
 }
 
 .footer-description {
