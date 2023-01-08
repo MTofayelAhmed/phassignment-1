@@ -4,7 +4,7 @@
 
 
 .header {
-  background-image: url(./images/banner/banner1.png);
+  background-image: url(/images/banner/banner1.png);
   height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -131,7 +131,7 @@
 
 /* attitude part css */
 .attitude {
-  background-image: url(./images/watch.png);
+  background-image: url(/images/watch.png);
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 70px;
