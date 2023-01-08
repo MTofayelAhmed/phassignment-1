@@ -1,0 +1,214 @@
+*{
+  margin: 0;
+}
+
+
+.header {
+  background-image: url(../images/banner/banner1.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* margin-bottom: 100px; */
+  text-align: center;
+  padding-top: 80px;
+}
+
+.half-width {
+  margin-top: 180px;
+  margin-left: 885px;
+
+}
+
+.half-width h1 {
+  font-weight: 800px;
+  font-size: 65px;
+}
+
+.half-width p {
+  color: #444343;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+
+}
+
+.donate-btn {
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+  background-color: #F15B22;
+  text-decoration: none;
+  padding: 14px 25px;
+  border-radius: 5px;
+
+}
+
+
+/* 2nd part css */
+.failure {
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+
+}
+
+.failure-image img {
+  margin-left: 290px;
+
+}
+
+.failure-write-up {
+  padding-left: 87px;
+  padding-top: 140px;
+}
+
+.failure-heading {
+  font-weight: 700;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+.failure-description {
+  color: #444343;
+  font-size: 18px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+}
+
+.reason-list {
+  padding-bottom: 8px;
+  padding-left: 35px;
+
+}
+
+
+
+/* 3rd part css */
+
+.container {
+  display: flex;
+  /* justify-content: space-around; */
+  align-content: space-between;
+
+}
+
+.plan-title {
+  margin-left: 711px;
+
+}
+
+.plan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.activities {
+  padding-right: 100px;
+  margin-right: 40px;
+}
+
+.plan h1 {
+  font-weight: 700;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+.activities-name {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.activities-intention {
+  color: #737272;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+/* attitude part css */
+.attitude {
+  background-image: url(/images/watch.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 70px;
+  height: 300px;
+  margin-top: 60px;
+
+
+}
+
+.quote {
+  margin-left: 500px;
+
+
+}
+
+.quote h1 {
+  font-weight: 700;
+  font-size: 40px;
+  color: white;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.quote-btn {
+  background-color: white;
+  color: red;
+  text-decoration: none;
+  padding: 21px 36px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* footer part */
+.footer-section {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 60px;
+  margin-top: 70px;
+  background-color: black;
+  height: 400px;
+  
+}
+
+.footer-description {
+  color: white;
+  padding-bottom: 10px;
+  
+}
+
+
+
+.footer-description h1 {
+  font-weight: 700;
+  font-size: 45px;
+  padding-bottom: 30px;
+ 
+}
+.footer-description p{
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+.footer-form h3{
+  color: white;
+  font-size: 40px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+.footer-form input{
+  width: 250px;
+  height: 30px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+
+}
+.footer-btn{
+padding: 10px;
+font-size: 20px;
+margin: 20px;
+height: 50px;
+width: 150px;
+border-radius: 5px;
+}
+
