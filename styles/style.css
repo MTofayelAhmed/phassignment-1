@@ -113,6 +113,9 @@
   font-weight: 700;
   font-size: 40px;
   padding-bottom: 30px;
+  padding-top: 30px;
+  margin-top: 40px;
+
 }
 
 .activities-name {
@@ -178,7 +181,9 @@
   
 }
 
-
+.footer-description img{
+  padding-left: 10px;
+}
 
 .footer-description h1 {
   font-weight: 700;
